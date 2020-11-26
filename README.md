@@ -1,5 +1,5 @@
 # wiki
 
-Click here to read the wiki [Austral Wiki](https://github.com/austral-electronics/wiki/wiki).
+Click here to read the [Austral Wiki](https://github.com/austral-electronics/wiki/wiki).
 
 
