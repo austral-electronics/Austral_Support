@@ -10,6 +10,7 @@
 
 ## 2. CALCULATORS & GATEWAYS
 * [Marine IOT Gateway OEM - Spécifications et guide d'installation (FR)](https://github.com/austral-electronics/wiki/blob/main/Marine%20IOT%20Gateway_03.pdf)
+* [QM™ Model-Based Design Tool](https://www.state-machine.com/products/qm)
 
 ## 3. MOTION CONTROL & ROBOTICS
 * [Esprit Motion Controller (EN)](https://github.com/austral-electronics/wiki/blob/main/EspritInstalGuideV14.pdf)
