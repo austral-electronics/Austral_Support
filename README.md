@@ -1,12 +1,11 @@
 # Welcome to AUSTRAL Electronics online documentations
 
-** Products **
-* [Quantum SDK](https://github.com/austral-electronics/wiki/wiki/Quantum-Calculator)
+## Products specifications and installation guide
 * [Esprit Motion Controller](https://github.com/austral-electronics/wiki/blob/main/EspritInstalGuideV14.pdf)
+* [Quantum Lite](https://github.com/austral-electronics/wiki/blob/main/QuantumLiteInstalGuideV12.pdf
 * 
-** Software **
+## Softwares
 * [Quantum SDK](https://github.com/austral-electronics/wiki/wiki/Quantum-Calculator)
 
-Click here to read the [Austral Wiki](https://github.com/austral-electronics/wiki/wiki).
 
 
