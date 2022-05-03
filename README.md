@@ -1,5 +1,5 @@
 # AUSTRAL Electronics
-*Intelligent Technologies for Marine,Industry and Drone - [www.austral-elec.com](http://austral-elec.com/)*
+*Intelligent Technologies for Marine, Industry and Unmanned Vehicles - [www.austral-elec.com](http://austral-elec.com/)*
 
 ## 1. LINUX PROCESSORS
 
