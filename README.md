@@ -1,5 +1,5 @@
 # AUSTRAL Electronics
-*Intelligent Marine & Industrial Technologies*
+*Intelligent Marine & Industrial Technologies* 
 
 ## 1. LINUX PROCESSORS
 
