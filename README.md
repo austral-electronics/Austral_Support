@@ -1,4 +1,5 @@
-# AUSTRAL Electronics - Intelligent Marine & Industrial Technologies
+# AUSTRAL Electronics
+Intelligent Marine & Industrial Technologies
 
 ## 1. LINUX PROCESSORS
 ### Quantum CM4
