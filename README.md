@@ -4,7 +4,7 @@
 ## 1. LINUX PROCESSORS
 
 ### Quantum CM4 OEM PROCESSOR
-*A rugged, miniaturized, low power, soft real-time platform for marine, industrial or drone application. Easily port your raspberry PI 4 software to a professional platform dedicated to harsh environments..*
+*A rugged, miniaturized, low power, soft real-time platform for marine, industrial or drone application. Easily port your raspberry PI 4 software to a professional platform dedicated to harsh environments.*
 * [Quantum CM4 OEM - Specifications and Installation guide (EN)](https://github.com/austral-electronics/wiki/blob/main/Quantum_CM4_OEM_02_Brief.pdf)
 * [Quantum SDK - Fast systems integration solution for Marine, Industry and Robotics – Based on Node-RED (EN)](https://github.com/austral-electronics/wiki/wiki/Quantum-SDK)
 
