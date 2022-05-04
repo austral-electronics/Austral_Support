@@ -11,7 +11,7 @@
 * Ready-to-use Debian 11 Bullseye image
 * Prepare Debian 11 Bullseye image from scratch
 * [Node-RED SDK - Fast system integration solution for Marine, Industry and Robotics (EN)](https://github.com/austral-electronics/wiki/wiki/Quantum-SDK)
-* Buildroot, Yocto, [Redpesk], Over-the-air (OTA) update (https://redpesk.bzh/welcome/home) : Contact us
+* Buildroot, Yocto, [Redpesk](https://redpesk.bzh/welcome/home), Over-the-air (OTA) update : [Contact us](http://austral-eng.com/contact/)
 
 ## 2. COMPUTERS
 
@@ -23,7 +23,7 @@
 * Ready-to-use Debian 11 Bullseye image
 * Prepare Debian 11 Bullseye image from scratch
 * [Node-RED SDK - Fast system integration solution for Marine, Industry and Robotics (EN)](https://github.com/austral-electronics/wiki/wiki/Quantum-SDK)
-* Ubuntu, Windows11, Over-the-air (OTA) update : Contact us
+* Ubuntu, Windows11 : [Contact us](http://austral-eng.com/contact/)
 
 ## 3. RTOS CALCULATORS & GATEWAYS
 ### Marine IOT Gateway
