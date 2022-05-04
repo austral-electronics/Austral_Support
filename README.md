@@ -4,7 +4,7 @@
 ## 1. PROCESSORS
 
 ### 1.1. QUANTUM CM4 OEM PROCESSOR
-*A Raspberry PI 4 software compatible, rugged , miniaturized, low power, soft real-time platform for marine, industrial or drone applications.*
+*A Raspberry PI 4 software compatible, rugged, miniaturized, low power, soft real-time platform, dedicated for operation in harsh environments (Marine, Industry, Drones, Off-Highway vehicles...)*
 #### Hardware :
 * [Quantum CM4 OEM - Specifications and Installation guide (EN)](https://github.com/austral-electronics/wiki/blob/main/Quantum_CM4_OEM_02_Brief.pdf)
 #### OS :
@@ -17,17 +17,16 @@
 ## 2. CALCULATORS & IOT GATEWAYS
 
 ### 2.1. H7 IOT Gateway
-*A platformn based on the STM32H7. The ideal solution for a hard real-time and safety-critical, marine/industrial IoT applications.*
+*A platform based on the powerfull STM32H7 microcontroller. The ideal solution for a hard real-time and safety-critical dedicated for operation in harsh environments (Marine, Industrial IoT, Drones, Off-Highway vehicles...)*
 #### Hardware :
 * [Marine IOT Gateway OEM - Spécifications et guide d'installation (FR)](https://github.com/austral-electronics/wiki/blob/main/Marine%20IOT%20Gateway_03.pdf)
 #### RTOS :
-* FreeRTOS
+* [FreeRTOS](https://www.freertos.org/)
 * Safety Critical Systems : SafeRTOS, [QM™ Model-Based Design Tool](https://www.state-machine.com/products/qm) : [Contact us](http://austral-eng.com/contact/)
-#### SDK & Applications :
-* Install the SDK : STM32 Tools, configure CubeMx, FreeRTOS, LwIP...
-* Autotest template
-* [QM™ Model-Based Design Tool for safety critical systems](https://www.state-machine.com/products/qm)
-* Flight Control System for foiler : [Contact us](http://austral-eng.com/contact/)
+#### SDK & Tutorials :
+* Install the STM32H7 SDK (Based on STM32 Tools, Visual Code, CubeMx, FreeRTOS, LwIP...)
+* Templates
+* Bootload an image
 
 ## 3. COMPUTERS
 
