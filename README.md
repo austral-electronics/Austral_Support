@@ -3,38 +3,46 @@
 
 ## 1. PROCESSORS
 
-### QUANTUM CM4 OEM PROCESSOR
+### 1.1. QUANTUM CM4 OEM PROCESSOR
 *A Raspberry PI 4 software compatible, rugged , miniaturized, low power, soft real-time platform for marine, industrial or drone applications.*
 #### Hardware :
 * [Quantum CM4 OEM - Specifications and Installation guide (EN)](https://github.com/austral-electronics/wiki/blob/main/Quantum_CM4_OEM_02_Brief.pdf)
-#### Software :
+#### OS :
 * Ready-to-use Debian 11 Bullseye Headless image
 * Prepare Debian 11 Bullseye Headless image from scratch
-* [Node-RED SDK - Fast system integration solution for Marine, Industry and Robotics (EN)](https://github.com/austral-electronics/wiki/wiki/Quantum-SDK)
 * Buildroot, Yocto, [Redpesk](https://redpesk.bzh/welcome/home), Over-the-air (OTA) update : [Contact us](http://austral-eng.com/contact/)
+#### SDK & Applications :
+* [Node-RED SDK - Fast system integration solution for Marine, Industry and Robotics (EN)](https://github.com/austral-electronics/wiki/wiki/Quantum-SDK)
 
-## 2. COMPUTERS
+## 2. CALCULATORS & IOT GATEWAYS
 
-### PYTHEAS 4 TINY COMPUTER
+### 2.1. Marine IOT Gateway
+*An ideal platform for a hard real-time and safety-critical, marine/industrial IoT applications. Based on a STM32H7.*
+#### Hardware :
+* [Marine IOT Gateway OEM - Spécifications et guide d'installation (FR)](https://github.com/austral-electronics/wiki/blob/main/Marine%20IOT%20Gateway_03.pdf)
+#### RTOS :
+* FreeRTOS
+* Safety Critical Systems : SafeRTOS, [QM™ Model-Based Design Tool](https://www.state-machine.com/products/qm) : [Contact us](http://austral-eng.com/contact/)
+#### SDK & Applications :
+* Install the SDK : STM32 Tools, configure CubeMx, FreeRTOS, LwIP...
+* Autotest template
+* [QM™ Model-Based Design Tool for safety critical systems](https://www.state-machine.com/products/qm)
+* Flight Control System for foiler : [Contact us](http://austral-eng.com/contact/)
+
+## 3. COMPUTERS
+
+### 3.1. PYTHEAS 4 COMPUTER
 *A raspberry PI 4 Fanless tiny computer with marine and industrial interfaces.*
 #### Hardware :
 * [Pytheas 4 - Specifications and Installation guide (EN)](https://github.com/austral-electronics/wiki/blob/main/QuantumLiteInstalGuideV12.pdf)
-#### Software :
+#### OS :
 * Ready-to-use Debian 11 Bullseye Desktop image
 * Install [OpenPlotter](https://openplotter.readthedocs.io/en/latest/getting_started/downloading.html)
 * Prepare Debian 11 Bullseye Desktop image from scratch
-* [Node-RED SDK - Fast system integration solution for Marine, Industry and Robotics (EN)](https://github.com/austral-electronics/wiki/wiki/Quantum-SDK)
 * Ubuntu, Windows11, Android12 : [Contact us](http://austral-eng.com/contact/)
-
-## 3. RTOS CALCULATORS & GATEWAYS
-### Marine IOT Gateway
-*An ideal platform for a hard real-time and safety-critical, marine/industrial IoT application.*
-#### Hardware :
-* [Marine IOT Gateway OEM - Spécifications et guide d'installation (FR)](https://github.com/austral-electronics/wiki/blob/main/Marine%20IOT%20Gateway_03.pdf)
-#### Software :
-* 
-* Install Debian 11 from scratch
-* [QM™ Model-Based Design Tool for safety critical systems](https://www.state-machine.com/products/qm)
+#### SDK & Applications :
+* Install [OpenPlotter](https://openplotter.readthedocs.io/en/latest/getting_started/downloading.html)
+* [Node-RED SDK - Fast system integration solution for Marine, Industry and Robotics (EN)](https://github.com/austral-electronics/wiki/wiki/Quantum-SDK)
 
 
 ## 4. MOTION CONTROL
