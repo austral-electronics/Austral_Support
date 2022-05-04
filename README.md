@@ -1,7 +1,7 @@
 *Intelligent Technologies for Marine, Industrial IoT and Unmanned Vehicles - [www.austral-elec.com](http://austral-elec.com/)*
 
 # H7 MARINE/INDUSTRIAL IoT GATEWAY (Q3 2022 - PREVIEW)
-*Connect your instruments wired on a field bus to the cloud or a local IP usign a modern bidirectional messaging protocol. The H7 IoT Gateway is ready for operation in harsh environments like a Marine, Industrial and Transportation application (IOT Gateway, Data collection, Fleet management, Asset Monitoring, Machine Monitoring, Overall Equipment Effectiveness (OEE) Monitoring...). If further integration is required, the H7 IoT Gateway OEM bare electronic board can also be integrated into your system.   Field bus : RS232, RS422, RS485, MODBUS, NMEA0183, NMEA2000, J1939, CANopen.   IP Protocols: MQTT, Websocket, ZMQ, UDP, TCP*
+*Connect your instruments wired on a field bus (Serial P2P/Bus, CANbus) to the cloud or a local internet network usign a modern bidirectional messaging protocol (MQTT, Websocket, ZMQ). The H7 IoT Gateway is ready for operation in harsh environments like a Marine, Industrial and Transportation application : IOT Gateway, Data collection, Fleet management, Asset/Security/machine Monitoring, Overall Equipment Effectiveness (OEE) Monitoring...  If further integration is required, the H7 IoT Gateway OEM bare electronic board can also be integrated into your system.*
 * [H7 IoT Gateway Preview - Spécifications et guide d'installation (FR)](https://github.com/austral-electronics/wiki/blob/main/Marine%20IOT%20Gateway_03.pdf)
 * H7 IoT Gateway Manual (coming soon)
 * H7 IoT Gateway OEM Board datasheet (coming soon)
