@@ -7,11 +7,11 @@
 * H7 IoT Gateway OEM Board datasheet 
 
 # QUANTUM AIoT OEM PROCESSOR (Q4 2022 - PREVIEW)
-*The **Quantum AIoT** allows you to build your next AI project using a powerfull, rugged, miniaturized, low power and soft real-time platform, dedicated remote browser-based displays operation in harsh environments like Marine, Industry, IoT, Drones, Off-Highway vehicles... If miniaturization is required, the Quantum AIoT boards can also be integrated into your system.*
+*The **Quantum AIoT** allows you to build your next AI project using a powerfull, rugged, miniaturized, low power and real-time platform with browser-based remote displays and operating in harsh environments, like Marine, Industry, IoT, Drones, Off-Highway vehicles... If miniaturization is required, the Quantum AIoT boards can also be integrated into your system.*
 * Quantum AIoT Brief Sheet Preview
 
 # QUANTUM CM4 OEM PROCESSOR
-*The **Quantum CM4** makes it as easy as possible to build your next smart project with the support of the largest developer community. The Quantum CM4 is a **Raspberry PI 4 software compatible**, rugged, miniaturized, low power, soft real-time platform, dedicated for remote browser-based displays operation in harsh environments like Marine, Industry, IoT, Drones, Off-Highway vehicles... If miniaturization is required, the Quantum CM4 boards can also be integrated into your system.*
+*The **Quantum CM4** makes it as easy as possible to build your next smart project with the support of the largest developer community. The Quantum CM4 is a **Raspberry PI 4 software compatible**, rugged, miniaturized, low power, real-time platform with browser-based remote displays and operating in harsh environments like Marine, Industry, IoT, Drones, Off-Highway vehicles... If miniaturization is required, the Quantum CM4 boards can also be integrated into your system.*
 #### Hardware :
  * [Quantum CM4 OEM Processor - Specifications and Installation guide (EN)](https://github.com/austral-electronics/wiki/blob/main/Quantum_CM4_OEM_02_Brief.pdf)
  * Quantum CM4 Boards datasheet
@@ -46,8 +46,8 @@
 * Prepare Debian 11 Bullseye Desktop image from scratch
 * Ubuntu, Windows11, Android12 : [Contact us](http://austral-eng.com/contact/)
 #### SDK & Applications :
-* Install [OpenPlotter](https://openplotter.readthedocs.io/en/latest/getting_started/downloading.html)
 * [Node-RED SDK - Fast system integration solution for Marine, Industry and Robotics (EN)](https://github.com/austral-electronics/wiki/wiki/Quantum-SDK)
+* Install [OpenPlotter](https://openplotter.readthedocs.io/en/latest/getting_started/downloading.html)
 
 # ESPRIT MOTION CONTROLLER
 *Advanced actuator control adapted to harsh environments constraints : Marine (Autopilot, foiler), Unmanned vehicles... If miniaturization is required, the Esprit board can also be integrated into your system.*
