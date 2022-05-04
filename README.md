@@ -32,7 +32,7 @@
 ## 3. COMPUTERS
 
 ### 3.1. PYTHEAS 4 COMPUTER
-*A raspberry PI 4 Fanless tiny computer with marine and industrial interfaces.*
+*A raspberry PI 4 Fanless tiny and low power computer with marine and industrial interfaces.*
 #### Hardware :
 * [Pytheas 4 - Specifications and Installation guide (EN)](https://github.com/austral-electronics/wiki/blob/main/QuantumLiteInstalGuideV12.pdf)
 #### OS :
