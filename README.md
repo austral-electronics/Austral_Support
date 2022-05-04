@@ -16,8 +16,8 @@
 
 ## 2. CALCULATORS & IOT GATEWAYS
 
-### 2.1. Marine IOT Gateway
-*An ideal platform for a hard real-time and safety-critical, marine/industrial IoT applications. Based on a STM32H7.*
+### 2.1. H7 IOT Gateway
+*A platformn based on the STM32H7. The ideal solution for a hard real-time and safety-critical, marine/industrial IoT applications.*
 #### Hardware :
 * [Marine IOT Gateway OEM - Spécifications et guide d'installation (FR)](https://github.com/austral-electronics/wiki/blob/main/Marine%20IOT%20Gateway_03.pdf)
 #### RTOS :
@@ -32,7 +32,7 @@
 ## 3. COMPUTERS
 
 ### 3.1. PYTHEAS 4 COMPUTER
-*A raspberry PI 4 Fanless tiny and low power computer with marine and industrial interfaces.*
+*A raspberry PI 4, fanless and low power computer with marine interfaces.*
 #### Hardware :
 * [Pytheas 4 - Specifications and Installation guide (EN)](https://github.com/austral-electronics/wiki/blob/main/QuantumLiteInstalGuideV12.pdf)
 #### OS :
