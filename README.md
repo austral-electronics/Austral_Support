@@ -44,11 +44,10 @@
 * [Pytheas 4 computer- Specifications and Installation guide (EN)](https://github.com/austral-electronics/wiki/blob/main/QuantumLiteInstalGuideV12.pdf)
 #### OS :
 * Ready-to-use Debian 11.3 Bullseye Desktop image (coming soon)
-* Ready-to-use Debian 11.3 Bullseye Desktop image with pre-installed [OpenPlotter](https://openplotter.readthedocs.io/en/latest/getting_started/downloading.html) (coming soon)
 * Prepare Debian 11.3 Bullseye Desktop image from scratch (coming soon)
 * Ubuntu 22.04 LTS, Windows 11, Android 12 : [Contact us](http://austral-eng.com/contact/)
 #### SDK :
-* Quantum C/C++/Qt development (coming soon)
+* Pytheas C/C++/Qt development (coming soon)
 * [Pytheas Node-RED SDK - Fast system integration solution for Marine, Industry and Robotics (EN)](https://github.com/austral-electronics/wiki/wiki/Quantum-SDK)
 #### Applications :
 * [Install OpenPlotter](https://openplotter.readthedocs.io/en/latest/getting_started/downloading.html)
