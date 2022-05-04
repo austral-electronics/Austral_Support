@@ -20,7 +20,7 @@
  * Prepare Debian 11 Bullseye Headless image from scratch
  * Buildroot, Yocto, [Redpesk](https://redpesk.bzh/welcome/home), Over-the-air (OTA) update : [Contact us](http://austral-eng.com/contact/)
 #### SDK :
- * [Node-RED SDK - Fast system integration solution for Marine, Industry and Robotics (EN)](https://github.com/austral-electronics/wiki/wiki/Quantum-SDK)
+ * [Quantum Node-RED SDK - Fast system integration solution for Marine, Industry and Robotics (EN)](https://github.com/austral-electronics/wiki/wiki/Quantum-SDK)
 
 # H7 OEM CALCULATOR/IoT GATEWAY
 *The **H7 Calculator** allows you to build your next smart project rapidly using a connected platform based on the powerfull **STM32H743** microcontroller. It is the ideal solution for a hard real-time or safety-critical systems dedicated for remote browser-based displays operation in harsh environments like Marine, Industry, IoT, Drones, Off-Highway vehicles...  If further integration is required, the H7 IoT Gateway bare electronic board can also be integrated into your system.*
@@ -46,7 +46,7 @@
 * Prepare Debian 11 Bullseye Desktop image from scratch
 * Ubuntu, Windows11, Android12 : [Contact us](http://austral-eng.com/contact/)
 #### SDK & Applications :
-* [Node-RED SDK - Fast system integration solution for Marine, Industry and Robotics (EN)](https://github.com/austral-electronics/wiki/wiki/Quantum-SDK)
+* [Pytheas Node-RED SDK - Fast system integration solution for Marine, Industry and Robotics (EN)](https://github.com/austral-electronics/wiki/wiki/Quantum-SDK)
 * Install [OpenPlotter](https://openplotter.readthedocs.io/en/latest/getting_started/downloading.html)
 
 # ESPRIT MOTION CONTROLLER
