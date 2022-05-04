@@ -16,8 +16,8 @@
  * [Quantum CM4 OEM Processor - Specifications and Installation guide (EN)](https://github.com/austral-electronics/wiki/blob/main/Quantum_CM4_OEM_02_Brief.pdf)
  * Quantum CM4 Boards datasheet (coming soon)
 #### OS :
- * Ready-to-use Debian 11 Bullseye Headless image (coming soon)
- * Prepare Debian 11 Bullseye Headless image from scratch (coming soon)
+ * Ready-to-use Debian 11.3 Bullseye Headless image (coming soon)
+ * Prepare Debian 11.3 Bullseye Headless image from scratch (coming soon)
  * Buildroot, Yocto, [Redpesk](https://redpesk.bzh/welcome/home), Over-the-air (OTA) update : [Contact us](http://austral-eng.com/contact/)
 #### SDK :
  * [Quantum Node-RED SDK - Fast system integration solution for Marine, Industry and Robotics (EN)](https://github.com/austral-electronics/wiki/wiki/Quantum-SDK)
