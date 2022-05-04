@@ -5,11 +5,13 @@
 * [H7 IoT Gateway Preview - Spécifications et guide d'installation (FR)](https://github.com/austral-electronics/wiki/blob/main/Marine%20IOT%20Gateway_03.pdf)
 * H7 IoT Gateway Manual (coming soon)
 * H7 IoT Gateway OEM Board datasheet (coming soon)
+
 <!---
-# QUANTUM AIoT OEM PROCESSOR (Q4 2022 - PREVIEW)
-*The **Quantum AIoT** allows you to build your next AI project using a powerfull, rugged, miniaturized, low power and real-time platform with browser-based remote displays and operating in harsh environments, like Marine, Industry, IoT, Drones, Off-Highway vehicles... If further integration is required, the Quantum AIoT bare electronic boards can also be integrated into your system.*
-* Quantum AIoT Brief Sheet Preview (coming soon) 
+# QUANTUM AIoT OEM PROCESSOR - Q4 2022 - PREVIEW
+ *The **Quantum AIoT** allows you to build your next AI project using a powerfull, rugged, miniaturized, low power and real-time platform with browser-based remote displays and operating in harsh environments, like Marine, Industry, IoT, Drones, Off-Highway vehicles... If further integration is required, the Quantum AIoT bare electronic boards can also be integrated into your system.*
+ * Quantum AIoT Brief Sheet Preview - coming soon
 -->
+
 # QUANTUM CM4 OEM PROCESSOR
 *The **Quantum CM4** makes it as easy as possible to build your next smart project with the support of the largest developer community, and if needed Node-Red low code visual programming. The Quantum CM4 is a **Raspberry PI 4 software compatible**, rugged, miniaturized, low power, real-time platform with browser-based remote displays and operating in harsh environments like Marine, Industry, IoT, Drones, Off-Highway vehicles... If further integration is required, the Quantum CM4 bare electronic boards can also be integrated into your system.*
 #### Hardware :
