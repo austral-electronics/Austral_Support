@@ -18,7 +18,7 @@
 
 ## H7 OEM CALCULATOR / IoT GATEWAY
 
-*A platform based on the powerfull STM32H7 microcontroller. The ideal solution for a hard real-time and safety-critical dedicated for operation in harsh environments (Marine IoT, Industrial IoT, Drones, Off-Highway vehicles...)*
+*A connected platform based on the powerfull STM32H7 microcontroller. The ideal solution for a hard real-time and safety-critical dedicated for operation in harsh environments (Marine, Industry, IoT, Drones, Off-Highway vehicles...)*
 ### Hardware :
 * [Marine IoT Gateway OEM - Spécifications et guide d'installation (FR)](https://github.com/austral-electronics/wiki/blob/main/Marine%20IOT%20Gateway_03.pdf)
 ### RTOS :
@@ -30,7 +30,7 @@
 * Bootload an image
 
 ## PYTHEAS 4 COMPUTER
-*A raspberry PI 4, fanless and low power computer with marine interfaces.*
+*A raspberry PI 4, fanless and low power computer with marine and industrial connectivity.*
 ### Hardware :
 * [Pytheas 4 - Specifications and Installation guide (EN)](https://github.com/austral-electronics/wiki/blob/main/QuantumLiteInstalGuideV12.pdf)
 ### OS :
