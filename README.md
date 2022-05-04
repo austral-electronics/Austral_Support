@@ -11,7 +11,7 @@
 * Quantum AIoT Brief Sheet Preview (coming soon) 
 
 # QUANTUM CM4 OEM PROCESSOR
-*The **Quantum CM4** makes it as easy as possible to build your next smart project with the support of the largest developer community. The Quantum CM4 is a **Raspberry PI 4 software compatible**, rugged, miniaturized, low power, real-time platform with browser-based remote displays and operating in harsh environments like Marine, Industry, IoT, Drones, Off-Highway vehicles... If further integration is required, the Quantum CM4 bare electronic boards can also be integrated into your system.*
+*The **Quantum CM4** makes it as easy as possible to build your next smart project with the support of the largest developer community, and if needed Node-Red low code visual programming. The Quantum CM4 is a **Raspberry PI 4 software compatible**, rugged, miniaturized, low power, real-time platform with browser-based remote displays and operating in harsh environments like Marine, Industry, IoT, Drones, Off-Highway vehicles... If further integration is required, the Quantum CM4 bare electronic boards can also be integrated into your system.*
 #### Hardware :
  * [Quantum CM4 OEM Processor - Specifications and Installation guide (EN)](https://github.com/austral-electronics/wiki/blob/main/Quantum_CM4_OEM_02_Brief.pdf)
  * Quantum CM4 Boards datasheet (coming soon)
@@ -20,6 +20,7 @@
  * Prepare Debian 11.3 Bullseye Headless image from scratch (coming soon)
  * Buildroot, Yocto, [Redpesk](https://redpesk.bzh/welcome/home), Over-the-air (OTA) update : [Contact us](http://austral-eng.com/contact/)
 #### SDK :
+ * Quantum C/C++/Qt remote development (coming soon)
  * [Quantum Node-RED SDK - Fast system integration solution for Marine, Industry and Robotics (EN)](https://github.com/austral-electronics/wiki/wiki/Quantum-SDK)
 
 # H7 OEM CALCULATOR/IoT GATEWAY
@@ -38,7 +39,7 @@
 * [QM™ Model-Based Design Tool for safety critical systems](https://www.state-machine.com/products/qm)
 
 # PYTHEAS 4 TINY COMPUTER
-*A **Raspberry PI 4** based, fanless and low power computer with marine and industrial connectivity. The **Pytheas 4** makes it as easy as possible to build your next smart project with the support of the largest developer community. You can also simply use it as a low power chart plotter with many connectivity features (RS232, NMEA0183, NMEA2000...)*
+*A **Raspberry PI 4** based, fanless and low power computer with marine and industrial connectivity. The **Pytheas 4** makes it as easy as possible to build your next smart project with the support of the largest developer community, and if needed Node-Red low code visual programming. You can also simply use it as a low power chart plotter or boat automation box thanks to numerous marine connectivity features*
 #### Hardware :
 * [Pytheas 4 computer- Specifications and Installation guide (EN)](https://github.com/austral-electronics/wiki/blob/main/QuantumLiteInstalGuideV12.pdf)
 #### OS :
@@ -46,8 +47,12 @@
 * Ready-to-use Debian 11.3 Bullseye Desktop image with pre-installed [OpenPlotter](https://openplotter.readthedocs.io/en/latest/getting_started/downloading.html) (coming soon)
 * Prepare Debian 11.3 Bullseye Desktop image from scratch (coming soon)
 * Ubuntu 22.04 LTS, Windows 11, Android 12 : [Contact us](http://austral-eng.com/contact/)
-#### SDK & Applications :
+#### SDK :
+* Quantum C/C++/Qt development (coming soon)
 * [Pytheas Node-RED SDK - Fast system integration solution for Marine, Industry and Robotics (EN)](https://github.com/austral-electronics/wiki/wiki/Quantum-SDK)
+#### Applications :
+* [Install OpenPlotter](https://openplotter.readthedocs.io/en/latest/getting_started/downloading.html)
+* [Install Home Assistant](https://www.home-assistant.io/installation/raspberrypi/)
 
 # ESPRIT MOTION CONTROLLER
 *Advanced actuator control adapted to harsh environments constraints : Marine (Autopilot, foiler), Unmanned vehicles... If further integration is required, the Esprit bare electronic board can also be integrated into your system.*
