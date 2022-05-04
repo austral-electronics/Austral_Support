@@ -8,8 +8,8 @@
 #### Hardware :
 * [Quantum CM4 OEM - Specifications and Installation guide (EN)](https://github.com/austral-electronics/wiki/blob/main/Quantum_CM4_OEM_02_Brief.pdf)
 #### Software :
-* Ready-to-use Debian 11 Bullseye image
-* Prepare Debian 11 Bullseye image from scratch
+* Ready-to-use Debian 11 Bullseye Headless image
+* Prepare Debian 11 Bullseye Headless image from scratch
 * [Node-RED SDK - Fast system integration solution for Marine, Industry and Robotics (EN)](https://github.com/austral-electronics/wiki/wiki/Quantum-SDK)
 * Buildroot, Yocto, [Redpesk](https://redpesk.bzh/welcome/home), Over-the-air (OTA) update : [Contact us](http://austral-eng.com/contact/)
 
@@ -20,10 +20,11 @@
 #### Hardware :
 * [Pytheas 4 - Specifications and Installation guide (EN)](https://github.com/austral-electronics/wiki/blob/main/QuantumLiteInstalGuideV12.pdf)
 #### Software :
-* Ready-to-use Debian 11 Bullseye image
-* Prepare Debian 11 Bullseye image from scratch
+* Ready-to-use Debian 11 Bullseye Desktop image
+* Install [OpenPlotter](https://openplotter.readthedocs.io/en/latest/getting_started/downloading.html)
+* Prepare Debian 11 Bullseye Desktop image from scratch
 * [Node-RED SDK - Fast system integration solution for Marine, Industry and Robotics (EN)](https://github.com/austral-electronics/wiki/wiki/Quantum-SDK)
-* Ubuntu, Windows11 : [Contact us](http://austral-eng.com/contact/)
+* Ubuntu, Windows11, Android12 : [Contact us](http://austral-eng.com/contact/)
 
 ## 3. RTOS CALCULATORS & GATEWAYS
 ### Marine IOT Gateway
