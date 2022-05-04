@@ -22,11 +22,23 @@
 * [Marine IoT Gateway OEM - Spécifications et guide d'installation (FR)](https://github.com/austral-electronics/wiki/blob/main/Marine%20IOT%20Gateway_03.pdf)
 #### RTOS :
 * [FreeRTOS](https://www.freertos.org/)
-* Safety Critical Systems : SafeRTOS, [QM™ Model-Based Design Tool](https://www.state-machine.com/products/qm) : [Contact us](http://austral-eng.com/contact/)
+* IoT : Azure RTOS, Zephyr OS : [Contact us](http://austral-eng.com/contact/)
+* Safety Critical Systems : SafeRTOS, [QP™ RTEFs](https://www.state-machine.com/products/qp) : [Contact us](http://austral-eng.com/contact/)
 #### SDK & Tutorials :
 * Install the H7XX SDK (Based on STM32 Tools, Visual Code, CubeMx, FreeRTOS, LwIP...)
 * Templates
 * Bootload an image
+* [QM™ Model-Based Design Tool for safety critical systems](https://www.state-machine.com/products/qm)
+
+# H743 MARINE/INDUSTRIAL IoT GATEWAY
+*Connect your instruments wired on a field bus to the cloud or a local IP usign a bidirectional messaging protocol. Ready for operation in harsh environments like a Marine, Industrial and Transportation application (IOT Gateway, Data collection, Fleet management, Asset Monitoring, Machine Monitoring, Overall Equipment Effectiveness (OEE) Monitoring...)*
+
+*Field bus : RS232, RS422, RS485, MODBUS, NMEA0183, NMEA2000, J1939, CANopen*
+
+*IP Protocols: MQTT, ZMQ, Websocket, UDP, TCP*
+
+#### Hardware :
+* [H743 Marine/Industrial IoT Gateway - Spécifications et guide d'installation (FR)](https://github.com/austral-electronics/wiki/blob/main/Marine%20IOT%20Gateway_03.pdf)
 
 # PYTHEAS 4 COMPUTER
 *A raspberry PI 4 based, fanless and low power computer with marine and industrial connectivity.*
