@@ -1,5 +1,4 @@
-AUSTRAL Electronics
-*Intelligent Technologies for Marine, Industrial IoT and Unmanned Vehicles - [www.austral-elec.com](http://austral-elec.com/)*
+**AUSTRAL Electronics** - *Intelligent Technologies for Marine, Industrial IoT and Unmanned Vehicles - [www.austral-elec.com](http://austral-elec.com/)*
 
 # QUANTUM AIoT OEM PROCESSOR (Q4 2022 - PREVIEW)
 *A powerfull, rugged, miniaturized, low power, soft real-time platform, dedicated for AI and operation in harsh environments (Marine, Industry, IoT, Drones, Off-Highway vehicles...)*
