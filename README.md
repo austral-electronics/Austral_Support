@@ -43,11 +43,11 @@
 * [Pytheas 4 computer- Specifications and Installation guide (EN)](https://github.com/austral-electronics/wiki/blob/main/QuantumLiteInstalGuideV12.pdf)
 #### OS :
 * Ready-to-use Debian 11.3 Bullseye Desktop image (coming soon)
+* Ready-to-use Debian 11.3 Bullseye Desktop image with pre-installed [OpenPlotter](https://openplotter.readthedocs.io/en/latest/getting_started/downloading.html) (coming soon)
 * Prepare Debian 11.3 Bullseye Desktop image from scratch (coming soon)
 * Ubuntu 22.04 LTS, Windows 11, Android 12 : [Contact us](http://austral-eng.com/contact/)
 #### SDK & Applications :
 * [Pytheas Node-RED SDK - Fast system integration solution for Marine, Industry and Robotics (EN)](https://github.com/austral-electronics/wiki/wiki/Quantum-SDK)
-* [Install OpenPlotter](https://openplotter.readthedocs.io/en/latest/getting_started/downloading.html)
 
 # ESPRIT MOTION CONTROLLER
 *Advanced actuator control adapted to harsh environments constraints : Marine (Autopilot, foiler), Unmanned vehicles... If further integration is required, the Esprit bare electronic board can also be integrated into your system.*
