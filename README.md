@@ -37,7 +37,7 @@
 * Bootload an image (coming soon)
 * [QM™ Model-Based Design Tool for safety critical systems](https://www.state-machine.com/products/qm)
 
-# PYTHEAS 4 COMPUTER
+# PYTHEAS 4 TINY COMPUTER
 *A **Raspberry PI 4** based, fanless and low power computer with marine and industrial connectivity. The **Pytheas 4** makes it as easy as possible to build your next smart project with the support of the largest developer community. You can also simply use it as a low power chart plotter with many connectivity features (RS232, NMEA0183, NMEA2000...)*
 #### Hardware :
 * [Pytheas 4 computer- Specifications and Installation guide (EN)](https://github.com/austral-electronics/wiki/blob/main/QuantumLiteInstalGuideV12.pdf)
