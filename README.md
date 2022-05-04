@@ -1,7 +1,7 @@
-# AUSTRAL Electronics
+AUSTRAL Electronics
 *Intelligent Technologies for Marine, Industrial IoT and Unmanned Vehicles - [www.austral-elec.com](http://austral-elec.com/)*
 
-## QUANTUM AIoT OEM PROCESSOR (Q4 2022 - PREVIEW)
+# QUANTUM AIoT OEM PROCESSOR (Q4 2022 - PREVIEW)
 *A powerfull, rugged, miniaturized, low power, soft real-time platform, dedicated for AI and operation in harsh environments (Marine, Industry, IoT, Drones, Off-Highway vehicles...)*
 * Brief Sheet Preview
 
@@ -16,21 +16,21 @@
 ### SDK :
 * [Node-RED SDK - Fast system integration solution for Marine, Industry and Robotics (EN)](https://github.com/austral-electronics/wiki/wiki/Quantum-SDK)
 
-## H7 OEM CALCULATOR / IoT GATEWAY
+## H743 OEM CALCULATOR / IoT GATEWAY
 
-*A connected platform based on the powerfull STM32H7 microcontroller. The ideal solution for a hard real-time and safety-critical dedicated for operation in harsh environments (Marine, Industry, IoT, Drones, Off-Highway vehicles...)*
+*A connected platform based on the powerfull STM32H743 microcontroller. The ideal solution for a hard real-time and safety-critical dedicated for operation in harsh environments (Marine, Industry, IoT, Drones, Off-Highway vehicles...)*
 ### Hardware :
 * [Marine IoT Gateway OEM - Spécifications et guide d'installation (FR)](https://github.com/austral-electronics/wiki/blob/main/Marine%20IOT%20Gateway_03.pdf)
 ### RTOS :
 * [FreeRTOS](https://www.freertos.org/)
 * Safety Critical Systems : SafeRTOS, [QM™ Model-Based Design Tool](https://www.state-machine.com/products/qm) : [Contact us](http://austral-eng.com/contact/)
 ### SDK & Tutorials :
-* Install the STM32H7 SDK (Based on STM32 Tools, Visual Code, CubeMx, FreeRTOS, LwIP...)
+* Install the H743 SDK (Based on STM32 Tools, Visual Code, CubeMx, FreeRTOS, LwIP...)
 * Templates
 * Bootload an image
 
 ## PYTHEAS 4 COMPUTER
-*A raspberry PI 4, fanless and low power computer with marine and industrial connectivity.*
+*A raspberry PI 4 based, fanless and low power computer with marine and industrial connectivity.*
 ### Hardware :
 * [Pytheas 4 - Specifications and Installation guide (EN)](https://github.com/austral-electronics/wiki/blob/main/QuantumLiteInstalGuideV12.pdf)
 ### OS :
