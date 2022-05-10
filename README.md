@@ -19,10 +19,10 @@
  * Quantum CM4 Boards datasheet (coming soon)
 #### OS :
  * Ready-to-use Debian 11.3 Bullseye Headless image (coming soon)
- * [Prepare Debian 11.3 Bullseye Headless image from scratch] (https://github.com/austral-electronics/QuantumCM4/blob/main/README.md)
+ * [Prepare Debian 11.3 Bullseye Headless image from scratch](https://github.com/austral-electronics/QuantumCM4/blob/main/README.md)
  * Buildroot, Yocto, [Redpesk](https://redpesk.bzh/welcome/home), Over-the-air (OTA) update : [Contact us](http://austral-eng.com/contact/)
 #### SDK :
- * [Quantum C/C++/Qt remote development] (https://github.com/austral-electronics/QuantumCM4/blob/main/README.md)
+ * [Quantum C/C++/Qt remote development](https://github.com/austral-electronics/QuantumCM4/blob/main/README.md)
  * [Quantum Node-RED SDK - Fast system integration solution for Marine, Industry and Robotics (EN)](https://github.com/austral-electronics/wiki/wiki/Quantum-SDK)
 
 # H7 OEM CALCULATOR/IoT GATEWAY
