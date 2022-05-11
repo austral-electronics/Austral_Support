@@ -19,7 +19,7 @@
  * Quantum CM4 Boards datasheet (coming soon)
 #### OS :
  * [Debian Bullseye PREEMPT-RT](https://github.com/austral-electronics/QuantumCM4/blob/main/README.md)
- * Buildroot, Yocto, [Redpesk](https://redpesk.bzh/welcome/home), Over-the-air (OTA) update : [Contact us](http://austral-eng.com/contact/)
+ * Buildroot, Yocto, [Redpesk](https://redpesk.bzh/welcome/home), Ubuntu Server, Over-the-air (OTA) update : [Contact us](http://austral-eng.com/contact/)
 #### SDK :
  * [Quantum C/C++/Qt remote development](https://github.com/austral-electronics/QuantumCM4/blob/main/README.md)
  * [Quantum Node-RED SDK - Fast system integration solution for Marine, Industry and Robotics (EN)](https://github.com/austral-electronics/wiki/wiki/Quantum-SDK)
