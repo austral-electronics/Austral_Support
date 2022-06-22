@@ -30,16 +30,14 @@
 * IoT : Azure RTOS, Zephyr OS : [Contact us](http://austral-eng.com/contact/)
 * Safety Critical Systems : SafeRTOS, [QP™ RTEFs](https://www.state-machine.com/products/qp) : [Contact us](http://austral-eng.com/contact/)
 #### SDK & Tutorials :
-* Install the H7 SDK (Based on STM32 Tools, Visual Code, CubeMx, FreeRTOS, LwIP Webserver and sockets...) (coming soon)
-* Templates (coming soon)
-* Bootload an image (coming soon)
+* Install the H7 SDK (Based on STM32 Tools, Visual Code, CubeMx, FreeRTOS, LwIP Webserver and sockets, Templates, Bootload...) ([Reserved for clients - Contact us](http://austral-eng.com/contact/))
 * [QM™ Model-Based Design Tool for safety critical systems](https://www.state-machine.com/products/qm)
 
 # ESPRIT : Advanced Motion Controller for hostile environments
 *Advanced actuator control adapted to harsh environments constraints : Marine (Autopilot, foiler), Unmanned vehicles... If further integration is required, the Esprit bare electronic board can also be integrated into your system.*
 #### Hardware :
 * [Esprit Motion Controller (EN)](https://github.com/austral-electronics/wiki/blob/main/EspritInstalGuideV14.pdf)
-* Esprit Motion Controller OEM Board (On demand)
+* Esprit Motion Controller OEM Board ([On demand](http://austral-eng.com/contact/))
 
 # RED CARPET SDK : Free IoT Software Suite – Fast systems integration based on Node-RED flow creator
 *RED Carpet is an open, fast, agile and intuitive system integration framework for marine, industrial IoT and unmanned vehicles.*
