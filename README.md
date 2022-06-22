@@ -24,13 +24,13 @@
 *RED Carpet is an open, fast, agile and intuitive system integration framework for marine, industrial IoT and unmanned vehicles.*
 #### Support :
  * [Description](http://austral-eng.com/en/red-carpet-free-iot-software-suite-fast-systems-integration-based-on-node-red-flow-creator)
- * [Support/Github](https://github.com/austral-electronics/wiki/wiki/Quantum-SDK))
+ * [Support/Github](https://github.com/austral-electronics/wiki/wiki/Quantum-SDK)
 
 # THUNDERBALL H7 OEM : Industrial & Marine Rugged Calculator/IoT Gateway
 *The **Thunderball H7 Calculator** allows you to build your next smart project rapidly using a connected platform based on the powerfull **STM32H743** microcontroller. It is the ideal solution for a hard real-time or safety-critical systems with browser-based remote displays and operating in harsh environments like Marine, Industry, IoT, Drones, Off-Highway vehicles...  If a high level of integration is required, the H7 IoT Gateway bare electronic board can also be integrated into your system.*
 #### Hardware :
 * [Thunderball H7 OEM Calculator/IoT Gateway - Spécifications et guide d'installation (FR)](https://github.com/austral-electronics/wiki/blob/main/Marine%20IOT%20Gateway_03.pdf)
-* Thunderball H7 OEM Calculator/IoT Gateway Board Datasheet (coming soon)
+* Thunderball H7 OEM Calculator/IoT Gateway Board Datasheet (On Demand)
 #### RTOS :
 * [FreeRTOS](https://www.freertos.org/)
 * IoT : Azure RTOS, Zephyr OS : [Contact us](http://austral-eng.com/contact/)
