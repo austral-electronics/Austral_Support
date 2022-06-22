@@ -30,7 +30,7 @@
 * IoT : Azure RTOS, Zephyr OS : [Contact us](http://austral-eng.com/contact/)
 * Safety Critical Systems : SafeRTOS, [QP™ RTEFs](https://www.state-machine.com/products/qp) : [Contact us](http://austral-eng.com/contact/)
 #### SDK & Tutorials :
-* Install the H7 SDK (Based on STM32 Tools, Visual Code, CubeMx, FreeRTOS, LwIP Webserver and sockets, Templates, Bootload...) ([Customer Access](http://austral-eng.com/contact/))
+* SDK Tutorial & Github (Based on STM32 Tools, Visual Code, CubeMx, FreeRTOS, LwIP Webserver and sockets, Templates, Bootload...) ([Customer Access](http://austral-eng.com/contact/))
 * [QM™ Model-Based Design Tool for safety critical systems](https://www.state-machine.com/products/qm)
 
 # ESPRIT : Advanced Motion Controller for hostile environments
