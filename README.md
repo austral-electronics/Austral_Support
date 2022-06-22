@@ -14,15 +14,17 @@
 
 # QUANTUM CM4 OEM : Industrial & Marine Rugged IP67 Mission Calculator / IoT Gateway
 *The **Quantum CM4** makes it as easy as possible to build your next smart project with the support of the largest developer community, and if needed Node-Red low code visual programming. The Quantum CM4 is a **Raspberry PI 4 software compatible**, rugged, miniaturized, low power, real-time platform with browser-based remote displays and operating in harsh environments like Marine, Industry, IoT, Drones, Off-Highway vehicles... If a high level of integration is required, the Quantum CM4 bare electronic boards can also be integrated into your system.*
-#### Hardware :
- * [Quantum CM4 OEM Processor - Specifications and Installation guide (EN)](https://github.com/austral-electronics/wiki/blob/main/Quantum_CM4_OEM_02_Brief.pdf)
- * Quantum CM4 Boards datasheet (coming soon)
-#### OS :
- * [Debian Bullseye PREEMPT-RT](https://github.com/austral-electronics/QuantumCM4/blob/main/README.md)
- * Buildroot, Yocto, [Redpesk](https://redpesk.bzh/welcome/home), Ubuntu Server, Over-the-air (OTA) update : [Contact us](http://austral-eng.com/contact/)
-#### SDK :
- * [Quantum C/C++/Qt remote development](https://github.com/austral-electronics/QuantumCM4/blob/main/README.md)
- * [Quantum Node-RED SDK - Fast system integration solution for Marine, Industry and Robotics (EN)](https://github.com/austral-electronics/wiki/wiki/Quantum-SDK)
+#### Support :
+ * [Description - Pricing & Ordering](http://austral-eng.com/en/quantum-cm4-oem-en/)
+ * [Support - Github](https://austral-electronics.github.io/QuantumCM4/)
+ * [Specifications & Installation Guide (EN)](https://github.com/austral-electronics/wiki/blob/main/Quantum_CM4_OEM_02_Brief.pdf)
+ * Quantum CM4 Boards datasheet (On demand)
+ 
+# RED CARPET SDK : Free IoT Software Suite – Fast systems integration based on Node-RED flow creator
+*RED Carpet is an open, fast, agile and intuitive system integration framework for marine, industrial IoT and unmanned vehicles.*
+#### Support :
+ * [Description](http://austral-eng.com/en/red-carpet-free-iot-software-suite-fast-systems-integration-based-on-node-red-flow-creator)
+ * [Support/Github](https://github.com/austral-electronics/wiki/wiki/Quantum-SDK))
 
 # THUNDERBALL H7 OEM : Industrial & Marine Rugged Calculator/IoT Gateway
 *The **Thunderball H7 Calculator** allows you to build your next smart project rapidly using a connected platform based on the powerfull **STM32H743** microcontroller. It is the ideal solution for a hard real-time or safety-critical systems with browser-based remote displays and operating in harsh environments like Marine, Industry, IoT, Drones, Off-Highway vehicles...  If a high level of integration is required, the H7 IoT Gateway bare electronic board can also be integrated into your system.*
