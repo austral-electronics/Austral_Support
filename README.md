@@ -1,10 +1,10 @@
 *Intelligent Technologies for Marine, Industrial IoT and Unmanned Vehicles - [www.austral-elec.com](http://austral-elec.com/)*
 
-# H7 Rugged IoT GATEWAY (Q3 2022 - PREVIEW)
+# Thunderball H7 Rugged IoT GATEWAY (Q3 2022 - PREVIEW)
 *Connect your instruments wired on a field bus (Serial P2P/Bus, CANbus) to the cloud or a local internet network usign a modern bidirectional messaging protocol (MQTT, Websocket, ZMQ). The H7 IoT Gateway is ready for operation in harsh environments like a Marine, Industrial and Transportation application : IOT Gateway, Data collection, Fleet management, Asset/Security/machine Monitoring, Overall Equipment Effectiveness (OEE) Monitoring...  If further integration is required, the H7 IoT Gateway OEM bare electronic board can also be integrated into your system.*
-* [H7 IoT Gateway Preview - Spécifications et guide d'installation (FR)](https://github.com/austral-electronics/wiki/blob/main/Marine%20IOT%20Gateway_03.pdf)
-* H7 IoT Gateway Manual (coming soon)
-* H7 IoT Gateway OEM Board datasheet (coming soon)
+* [Thunderball H7 IoT Gateway Preview - Spécifications et guide d'installation (FR)](https://github.com/austral-electronics/wiki/blob/main/Marine%20IOT%20Gateway_03.pdf)
+* Thunderball H7 IoT Gateway Manual (coming soon)
+* Thunderball H7 IoT Gateway OEM Board datasheet (coming soon)
 
 <!---
 # QUANTUM AIoT OEM PROCESSOR - Q4 2022 - PREVIEW
@@ -24,11 +24,11 @@
  * [Quantum C/C++/Qt remote development](https://github.com/austral-electronics/QuantumCM4/blob/main/README.md)
  * [Quantum Node-RED SDK - Fast system integration solution for Marine, Industry and Robotics (EN)](https://github.com/austral-electronics/wiki/wiki/Quantum-SDK)
 
-# H7 OEM CALCULATOR/IoT GATEWAY
+# Thunderball H7 OEM Calculator/IoT GATEWAY
 *The **H7 Calculator** allows you to build your next smart project rapidly using a connected platform based on the powerfull **STM32H743** microcontroller. It is the ideal solution for a hard real-time or safety-critical systems with browser-based remote displays and operating in harsh environments like Marine, Industry, IoT, Drones, Off-Highway vehicles...  If a high level of integration is required, the H7 IoT Gateway bare electronic board can also be integrated into your system.*
 #### Hardware :
-* [H7 OEM Calculator/IoT Gateway - Spécifications et guide d'installation (FR)](https://github.com/austral-electronics/wiki/blob/main/Marine%20IOT%20Gateway_03.pdf)
-* H7 OEM Calculator/IoT Gateway Board Datasheet (coming soon)
+* [Thunderball H7 OEM Calculator/IoT Gateway - Spécifications et guide d'installation (FR)](https://github.com/austral-electronics/wiki/blob/main/Marine%20IOT%20Gateway_03.pdf)
+* Thunderball H7 OEM Calculator/IoT Gateway Board Datasheet (coming soon)
 #### RTOS :
 * [FreeRTOS](https://www.freertos.org/)
 * IoT : Azure RTOS, Zephyr OS : [Contact us](http://austral-eng.com/contact/)
