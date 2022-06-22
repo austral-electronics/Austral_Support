@@ -41,7 +41,13 @@
 * Bootload an image (coming soon)
 * [QM™ Model-Based Design Tool for safety critical systems](https://www.state-machine.com/products/qm)
 
-# PYTHEAS 4 - Tiny Marine Computer
+# ESPRIT : Advanced Motion Controller for hostile environments
+*Advanced actuator control adapted to harsh environments constraints : Marine (Autopilot, foiler), Unmanned vehicles... If further integration is required, the Esprit bare electronic board can also be integrated into your system.*
+#### Hardware :
+* [Esprit Motion Controller (EN)](https://github.com/austral-electronics/wiki/blob/main/EspritInstalGuideV14.pdf)
+* Esprit Motion Controller OEM Board (On demand)
+
+# PYTHEAS 4 : Tiny Marine Computer for development & DIY projects in protected environments
 *A **Raspberry PI 4** based, fanless and low power computer with marine and industrial connectivity. The **Pytheas 4** makes it as easy as possible to build your next smart project with the support of the largest developer community, and if needed Node-Red low code visual programming. You can also simply use it as a low power chart plotter or boat automation box thanks to numerous marine connectivity features*
 #### Hardware :
 * [Pytheas 4 computer- Specifications and Installation guide (EN)](https://github.com/austral-electronics/wiki/blob/main/QuantumLiteInstalGuideV12.pdf)
@@ -51,14 +57,8 @@
 * Ubuntu 22.04 LTS, Windows 11, Android 12 : [Contact us](http://austral-eng.com/contact/)
 #### SDK :
 * Pytheas C/C++/Qt development (coming soon)
-* [Pytheas Node-RED SDK - Fast system integration solution for Marine, Industry and Robotics (EN)](https://github.com/austral-electronics/wiki/wiki/Quantum-SDK)
+* [Red Carpet SDK Description](http://austral-eng.com/en/red-carpet-free-iot-software-suite-fast-systems-integration-based-on-node-red-flow-creator)
+* [Red Carpet SDK Support/Github](https://github.com/austral-electronics/wiki/wiki/Quantum-SDK)
 #### Applications :
 * [Install OpenPlotter](https://openplotter.readthedocs.io/en/latest/getting_started/downloading.html)
 * [Install Home Assistant](https://www.home-assistant.io/installation/raspberrypi/)
-
-# ESPRIT MOTION CONTROLLER
-*Advanced actuator control adapted to harsh environments constraints : Marine (Autopilot, foiler), Unmanned vehicles... If further integration is required, the Esprit bare electronic board can also be integrated into your system.*
-#### Hardware :
-* [Esprit Motion Controller (EN)](https://github.com/austral-electronics/wiki/blob/main/EspritInstalGuideV14.pdf)
-* Esprit Motion Controller OEM Board (coming soon)
-
