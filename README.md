@@ -19,12 +19,6 @@
  * [Support - Github](https://austral-electronics.github.io/QuantumCM4/)
  * [Specifications & Installation Guide (EN)](https://github.com/austral-electronics/wiki/blob/main/Quantum_CM4_OEM_02_Brief.pdf)
  * Quantum CM4 Boards datasheet (On demand)
- 
-# RED CARPET SDK : Free IoT Software Suite – Fast systems integration based on Node-RED flow creator
-*RED Carpet is an open, fast, agile and intuitive system integration framework for marine, industrial IoT and unmanned vehicles.*
-#### Support :
- * [Description](http://austral-eng.com/en/red-carpet-free-iot-software-suite-fast-systems-integration-based-on-node-red-flow-creator)
- * [Support/Github](https://github.com/austral-electronics/wiki/wiki/Quantum-SDK)
 
 # THUNDERBALL H7 OEM : Industrial & Marine Rugged Calculator/IoT Gateway
 *The **Thunderball H7 Calculator** allows you to build your next smart project rapidly using a connected platform based on the powerfull **STM32H743** microcontroller. It is the ideal solution for a hard real-time or safety-critical systems with browser-based remote displays and operating in harsh environments like Marine, Industry, IoT, Drones, Off-Highway vehicles...  If a high level of integration is required, the H7 IoT Gateway bare electronic board can also be integrated into your system.*
@@ -46,6 +40,12 @@
 #### Hardware :
 * [Esprit Motion Controller (EN)](https://github.com/austral-electronics/wiki/blob/main/EspritInstalGuideV14.pdf)
 * Esprit Motion Controller OEM Board (On demand)
+
+# RED CARPET SDK : Free IoT Software Suite – Fast systems integration based on Node-RED flow creator
+*RED Carpet is an open, fast, agile and intuitive system integration framework for marine, industrial IoT and unmanned vehicles.*
+#### Support :
+ * [Description](http://austral-eng.com/en/red-carpet-free-iot-software-suite-fast-systems-integration-based-on-node-red-flow-creator)
+ * [Support/Github](https://github.com/austral-electronics/wiki/wiki/Quantum-SDK)
 
 # PYTHEAS 4 : Tiny Marine Computer for development & DIY projects in protected environments
 *A **Raspberry PI 4** based, fanless and low power computer with marine and industrial connectivity. The **Pytheas 4** makes it as easy as possible to build your next smart project with the support of the largest developer community, and if needed Node-Red low code visual programming. You can also simply use it as a low power chart plotter or boat automation box thanks to numerous marine connectivity features*
