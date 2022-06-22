@@ -18,26 +18,26 @@
  * [Description - Pricing & Ordering](http://austral-eng.com/en/quantum-cm4-oem-en/)
  * [Support - Github](https://austral-electronics.github.io/QuantumCM4/)
  * [Specifications & Installation Guide (EN)](https://github.com/austral-electronics/wiki/blob/main/Quantum_CM4_OEM_02_Brief.pdf)
- * Quantum CM4 Boards datasheet (On demand)
+ * Quantum CM4 Boards datasheet ([Customer Access](http://austral-eng.com/contact/))
 
 # THUNDERBALL H7 OEM : Industrial & Marine Rugged Calculator/IoT Gateway
 *The **Thunderball H7 Calculator** allows you to build your next smart project rapidly using a connected platform based on the powerfull **STM32H743** microcontroller. It is the ideal solution for a hard real-time or safety-critical systems with browser-based remote displays and operating in harsh environments like Marine, Industry, IoT, Drones, Off-Highway vehicles...  If a high level of integration is required, the H7 IoT Gateway bare electronic board can also be integrated into your system.*
 #### Hardware :
 * [Thunderball H7 OEM Calculator/IoT Gateway - Spécifications et guide d'installation (FR)](https://github.com/austral-electronics/wiki/blob/main/Marine%20IOT%20Gateway_03.pdf)
-* Thunderball H7 OEM Calculator/IoT Gateway Board Datasheet (On Demand)
+* Thunderball H7 OEM Calculator/IoT Gateway Board Datasheet ([Customer Access](http://austral-eng.com/contact/))
 #### RTOS :
 * [FreeRTOS](https://www.freertos.org/)
 * IoT : Azure RTOS, Zephyr OS : [Contact us](http://austral-eng.com/contact/)
 * Safety Critical Systems : SafeRTOS, [QP™ RTEFs](https://www.state-machine.com/products/qp) : [Contact us](http://austral-eng.com/contact/)
 #### SDK & Tutorials :
-* Install the H7 SDK (Based on STM32 Tools, Visual Code, CubeMx, FreeRTOS, LwIP Webserver and sockets, Templates, Bootload...) ([Reserved for clients - Contact us](http://austral-eng.com/contact/))
+* Install the H7 SDK (Based on STM32 Tools, Visual Code, CubeMx, FreeRTOS, LwIP Webserver and sockets, Templates, Bootload...) ([Customer Access](http://austral-eng.com/contact/))
 * [QM™ Model-Based Design Tool for safety critical systems](https://www.state-machine.com/products/qm)
 
 # ESPRIT : Advanced Motion Controller for hostile environments
 *Advanced actuator control adapted to harsh environments constraints : Marine (Autopilot, foiler), Unmanned vehicles... If further integration is required, the Esprit bare electronic board can also be integrated into your system.*
 #### Hardware :
 * [Esprit Motion Controller (EN)](https://github.com/austral-electronics/wiki/blob/main/EspritInstalGuideV14.pdf)
-* Esprit Motion Controller OEM Board ([On demand](http://austral-eng.com/contact/))
+* Esprit Motion Controller OEM Board ([Customer Access](http://austral-eng.com/contact/))
 
 # RED CARPET SDK : Free IoT Software Suite – Fast systems integration based on Node-RED flow creator
 *RED Carpet is an open, fast, agile and intuitive system integration framework for marine, industrial IoT and unmanned vehicles.*
