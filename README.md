@@ -12,7 +12,7 @@
  * Quantum AIoT Brief Sheet Preview - coming soon
 -->
 
-# QUANTUM CM4 OEM : Industrial & Marine Rugged IP67 Mission Calculator / IoT Gateway
+# QUANTUM CM4 OEM : Industrial & Marine Rugged IP67 Mission Computer / IoT Gateway
 *The **Quantum CM4** makes it as easy as possible to build your next smart project with the support of the largest developer community, and if needed Node-Red low code visual programming. The Quantum CM4 is a **Raspberry PI 4 software compatible**, rugged, miniaturized, low power, real-time platform with browser-based remote displays and operating in harsh environments like Marine, Industry, IoT, Drones, Off-Highway vehicles... If a high level of integration is required, the Quantum CM4 bare electronic boards can also be integrated into your system.*
 #### Support :
  * [Description - Pricing & Ordering](http://austral-eng.com/en/quantum-cm4-oem-en/)
