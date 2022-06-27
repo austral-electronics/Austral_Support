@@ -2,7 +2,8 @@
 
 # THUNDERBALL H7 IoT : Industrial & Marine Rugged IoT Gateway (Q3 2022 - PREVIEW)
 *Connect your instruments wired on a field bus (Serial P2P/Bus, CANbus) to the cloud or a local internet network usign a modern bidirectional messaging protocol (MQTT, Websocket, ZMQ). The H7 IoT Gateway is ready for operation in harsh environments like a Marine, Industrial and Transportation application : IOT Gateway, Data collection, Fleet management, Asset/Security/machine Monitoring, Overall Equipment Effectiveness (OEE) Monitoring...  If further integration is required, the H7 IoT Gateway OEM bare electronic board can also be integrated into your system.*
-* [Thunderball H7 IoT Gateway Preview - Spécifications et guide d'installation (FR)](https://github.com/austral-electronics/wiki/blob/main/Marine%20IOT%20Gateway_03.pdf)
+* [Thunderball H7 IoT Gateway Preview - Spécifications et guide d'installation (FR)](https://github.com/austral-electronics/wiki/blob/main/Thunderball_H7_OEM_Brief_Last.pdf)
+
 * Thunderball H7 IoT Gateway Manual (coming soon)
 * Thunderball H7 IoT Gateway OEM Board datasheet (coming soon)
 
