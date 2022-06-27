@@ -25,7 +25,7 @@
 *The **Thunderball H7 Calculator** allows you to build your next smart project rapidly using a connected platform based on the powerfull **STM32H743** microcontroller. It is the ideal solution for a hard real-time or safety-critical systems with browser-based remote displays and operating in harsh environments like Marine, Industry, IoT, Drones, Off-Highway vehicles...  If a high level of integration is required, the H7 IoT Gateway bare electronic board can also be integrated into your system.*
 #### Hardware :
 * [Thunderball H7 OEM Calculator/IoT Gateway - Specifications and installation guide](https://github.com/austral-electronics/wiki/blob/main/Thunderball_H7_OEM_Brief_Last.pdf)
-* [Thunderball H7 OEM Calculator/IoT Gateway - Specifications and installation guide](https://raw.github.com/austral-electronics/wiki/blob/main/Quantum_CM4_OEM_Brief_Last.pdf))
+* [Thunderball H7 OEM Calculator/IoT Gateway - Specifications and installation guide](https://raw.github.com/austral-electronics/wiki/blob/main/Thunderball_H7_OEM_Brief_Last.pdf)
 * Thunderball H7 OEM Calculator/IoT Gateway Board Datasheet ([Customer Access](http://austral-eng.com/contact/))
 #### RTOS :
 * [FreeRTOS](https://www.freertos.org/)
