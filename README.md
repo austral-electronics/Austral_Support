@@ -26,7 +26,7 @@
 #### Hardware :
 * [Pytheas PI4 computer- Specifications and Installation guide (EN)](https://github.com/austral-electronics/wiki/blob/main/QuantumLiteInstalGuideV12.pdf)
 #### OS :
-* Prepare Debian 11.3 Bullseye Desktop image from scratch
+* Prepare Debian 11.3 Bullseye Desktop image from scratch ([Customer Access](http://austral-eng.com/contact/))
 #### SDK :
 * [Red Carpet SDK Description](http://austral-eng.com/en/red-carpet-free-iot-software-suite-fast-systems-integration-based-on-node-red-flow-creator)
 * [Red Carpet SDK Support/Github](https://github.com/austral-electronics/wiki/wiki/Quantum-SDK)
